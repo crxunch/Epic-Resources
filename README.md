@@ -43,7 +43,7 @@
 - (***) - Resource with some free content but contains student subscription plans at a significant discount (must make an account with *@my.utsa.edu account)
 
 ### Notes:
-- (1) - Hack The Box Academy contains a student subscription plan that only costs 8 dollars a month when you sign up with your UTSA email. The plan gives you access to all modules tier II and below. This plan also gives you full access to the Penetration Tester, Bug Bounty Hunter, and SOC Analyst job role paths, which are the training material for the CPTS, CHHB, and CDSA certifications respectively. This is an amazing deal, trust me.
+- (1) - Hack The Box Academy contains a student subscription plan that only costs 8 dollars a month when you sign up with your UTSA email. The plan gives you access to all modules tier II and below. This plan also gives you full access to the Penetration Tester, Bug Bounty Hunter, and SOC Analyst job role paths, which are the training material for the CPTS, CBBH, and CDSA certifications respectively. This is an amazing deal, trust me.
 - (2) - O'RIELLY is a publishing company that publishes many wonderful textbooks in many fields relating to IT. Of particular note are their complete exam guides for all of the CompTIA certifications.
 - (3) - I want to give special attention to this resource because the content is absolutely amazing and very beginner friendly, and the labs are extremely valuable. If you are interested in web penetration testing, please please please use this resource.
 - (4) - This resource is exclusively dedicated to teaching malware development for x64 CPU architectures, and particularly for the Windows operating system.
