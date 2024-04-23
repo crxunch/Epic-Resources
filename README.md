@@ -40,7 +40,7 @@
 ### Legend:
 - (*) - Completely free resource
 - (**) - Completely free resurce when registering with *@my.utsa.edu account
-- (***) - Resource with some free content but contains student subscription plans at a significant discount (must make an account with *@my.utsa.edu account)
+- (***) - Resource with some free content but contains student subscription plans at a significant discount (must make an account with *@my.utsa.edu email)
 
 ### Notes:
 - (1) - Hack The Box Academy contains a student subscription plan that only costs 8 dollars a month when you sign up with your UTSA email. The plan gives you access to all modules tier II and below. This plan also gives you full access to the Penetration Tester, Bug Bounty Hunter, and SOC Analyst job role paths, which are the training material for the CPTS, CBBH, and CDSA certifications respectively. This is an amazing deal, trust me.
