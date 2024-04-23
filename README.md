@@ -48,7 +48,7 @@
 - (3) - I want to give special attention to this resource because the content is absolutely amazing and very beginner friendly, and the labs are extremely valuable. If you are interested in web penetration testing, please please please use this resource.
 - (4) - This resource is exclusively dedicated to teaching malware development for x64 CPU architectures, and particularly for the Windows operating system.
 - (5) - While this is listed as a CTF platform, it is primarily for teaching bug bounty hunting on web applications.
-- (6) - This is a platform that aggrigates CTF competitions hosted by various individuals or organizations. You can compete individually or with a team. There are some people that really take this seriously so don't be discouraged if you have a hard time at first.
+- (6) - This is a platform that aggregates CTF competitions hosted by various individuals or organizations. You can compete individually or with a team. There are some people that really take this seriously so don't be discouraged if you have a hard time at first.
 - (7) - This is an overview of various certifications and the disciplines that they fall under. This is not meant to be a guide or a path of certifications to get.
 - (8) - These certifications are notoriously difficult and very new. They are still developing their reputation but if you complete one, you will be very competent in whatever you studied.
 - (9) - OffSec is currently the head honcho of offensive security certifications, specifically OSCP, but they are very expensive. Their certifications are very well recognized.
