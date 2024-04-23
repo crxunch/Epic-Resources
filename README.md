@@ -1,4 +1,4 @@
-# RowdyCon-Resources
+# Epic Resources
 - What is this?
   1. A minimalist list of resources for beginners to cybersecurity.
 - What is this NOT?
