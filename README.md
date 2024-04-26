@@ -1,8 +1,12 @@
 # Epic Resources
-- What is this?
-  1. A minimalist list of resources for beginners to cybersecurity.
 - What is this NOT?
   1. A comprehensive list of every single resource available for learning cybersecurity disciplines
+  2. A roadmap of every single thing you need to do to become successful in cybersecurity
+  3. A step-by-step path to becoming successful in cybersecurity
+  4. An end-all/be-all resource list
+- What is this?
+  1. A minimalist list of resources for beginners to get started in cybersecurity
+  2. A few tips that you may not find elsewhere and that I wish I had known sooner
  
 ## General
 - [Hack The Box Academy](https://academy.hackthebox.com/) (***) (1)
