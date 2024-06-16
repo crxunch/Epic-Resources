@@ -28,6 +28,7 @@
 
 ## Malware Development
 - [Maldev Academy](https://maldevacademy.com/) (4)
+- [SEKTOR7](https://institute.sektor7.net/) (4)
 
 ## CTF
 - [Hack The Box CTF](https://ctf.hackthebox.com/) (*)
